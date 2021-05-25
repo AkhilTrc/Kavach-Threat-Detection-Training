@@ -1,4 +1,4 @@
-# Kavach-Threat-Detection-Prediction
+# Kavach-Cyber-Threat-Detection
 Code for Generalized Threat Detection from Network traffic data (NSL-KDD), implemented using Convolutional Neural Network.
 
 ## Dataset
